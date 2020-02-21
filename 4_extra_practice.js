@@ -1,5 +1,9 @@
 // Take your previous solutions and write them using the other kind of loop.  
 // I.E.  If you wrote both of your algorithms using for loops, now write them out with while loops
 
+var i=1
+while(i<21){
+    console.log(i);
+    i=i+1
+}
 
-// YOUR CODE HERE
